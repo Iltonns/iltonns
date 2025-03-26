@@ -19,7 +19,7 @@
 ▶️ [Modelagem de dados](https://github.com/Iltonns/Modelagem-de-dados-com-Power-BI/tree/main) - Modelagem de dados com Power BI
 
 ## 📚 Estudando Atualmente  
-📌 Power BI  
+📌 Power BI
 
 📌 Visualização de dados 
 
