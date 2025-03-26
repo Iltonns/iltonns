@@ -20,13 +20,16 @@
 
 ## 📚 Estudando Atualmente  
 📌 Power BI  
+
 📌 Visualização de dados 
+
 📌 Modelagem de dados
+
 
 ## 📫 Vamos Conectar!  
 📧 [ilton.sa@outlook.com](mailto:ilton.sa@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/iltonsantos/)  
-💻 [Portfólio Completo](https://github.com/Iltonns)  
+💻 [Portifólio Completo](https://github.com/Iltonns)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iltonns&show_icons=true&theme=radical)
 
