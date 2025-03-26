@@ -13,15 +13,15 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-## 🏆 Projetos Destacados
-▶️ [Análise de Dados de Vendas](link) - Pipeline ETL em Python + Dashboard  
-▶️ [Otimização de Query SQL](link) - Melhoria de 70% no tempo de execução  
-▶️ [Sistema de Monitoramento](link) - Power BI + Banco de Dados Relacional  
+## 🏆 Projetos Destacado
+▶️ [Análise de Dados com Python](https://github.com/Iltonns/Analise-de-dados-com-p-python) - Pipeline ETL em Python + Dashboard  
+▶️ [Dashboard de visão geral de vendas](link) - Modelagem de dados + Painel  
+▶️ [Modelagem de dados](link) - Modelagem de dados 
 
 ## 📚 Estudando Atualmente  
-📌 PySpark para Big Data  
-📌 Arquitetura de Data Warehousing  
-📌 Modelagem Dimensional  
+📌 Power BI  
+📌 Visualização de dados 
+📌 Modelagem de dados
 
 ## 📫 Vamos Conectar!  
 📧 [ilton.sa@outlook.com](mailto:ilton.sa@outlook.com)  
