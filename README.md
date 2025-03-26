@@ -25,6 +25,9 @@
 
 📌 Modelagem de dados
 
+📌 Linguagem DAX
+
+
 
 ## 📫 Vamos Conectar!  
 📧 [ilton.sa@outlook.com](mailto:ilton.sa@outlook.com)  
