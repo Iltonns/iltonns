@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Eleilton Santos  
 
 ## 🚀 Sobre mim  
-🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🔹 Estudante de **Análise e Desenvolvimento de Sistemas e Banco de dados**  
 🔹 Apaixonado por transformar dados em insights valiosos  
 🔹 Foco em **Python | SQL | Power BI | ETL**  
 
