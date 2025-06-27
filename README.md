@@ -34,6 +34,9 @@
 
 📌 Linguagem DAX
 
+📌 Pandas
+
+📌 Python para Data Science
 
 
 ## 📫 Vamos Conectar!  
