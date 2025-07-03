@@ -26,23 +26,20 @@
 ▶️ [Modelagem de dados](https://github.com/Iltonns/Modelagem-de-dados-com-Power-BI/tree/main) - Modelagem de dados com Power BI
 
 ## 📚 Estudando Atualmente  
+
 📌 Power BI
 
-📌 Visualização de dados 
-
-📌 Modelagem de dados
-
-📌 Linguagem DAX
-
-📌 Pandas
+📌 Análise de dados 
 
 📌 Python para Data Science
 
 
 ## 📫 Vamos Conectar!  
-📧 [ilton.sa@outlook.com](mailto:ilton.sa@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/iltonsantos/)  
-💻 [Portifólio Completo](https://github.com/Iltonns)  
+📧 <a href="mailto:ilton.sa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>  
+
+🔗 <a href="https://www.linkedin.com/in/iltonsantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+💻 <a href="https://iltonns.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iltonns&show_icons=true&theme=radical)
 
