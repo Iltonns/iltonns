@@ -21,8 +21,9 @@
 </p>
 
 ## 🏆 Projetos Destacado
+▶️ [Análise de Turnover](https://github.com/Iltonns/Analise-de-dados-com-p-python]) - Modelagem de dados + Dashboard
 ▶️ [Análise de Dados com Python](https://github.com/Iltonns/Analise-de-dados-com-p-python) - Pipeline ETL em Python + Dashboard  
-▶️ [Dashboard de visão geral de vendas](https://github.com/Iltonns/Dashboard-de-vis-o-geral-de-vendas-Olist) - Modelagem de dados + Painel  
+▶️ [Dashboard de visão geral de vendas](https://github.com/Iltonns/Dashboard-de-vis-o-geral-de-vendas-Olist) - Modelagem de dados + Dashboard
 ▶️ [Modelagem de dados](https://github.com/Iltonns/Modelagem-de-dados-com-Power-BI/tree/main) - Modelagem de dados com Power BI
 
 ## 📚 Estudando Atualmente  
