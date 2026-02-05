@@ -5,7 +5,7 @@
 
 🔹 Apaixonado por transformar dados em insights valiosos e construir soluções de sistemas robustas.
 
-🔹 Foco em **Python | SQL | Power BI | ETL**
+🔹 Foco em **Python | SQL | Power BI | ETL | Excel | Análise de Dados**
 
 ## 🛠️ Stack Tecnológica
 <p align="left">
