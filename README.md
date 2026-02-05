@@ -18,6 +18,7 @@
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
 </p>
@@ -40,7 +41,9 @@
 
 ## 📚 Estudando Atualmente
 
-📌 Power BI Avançado
+📌 Excel para Análise de Dados
+
+📌 Power BI
 
 📌 Análise de dados e Data Storytelling
 
