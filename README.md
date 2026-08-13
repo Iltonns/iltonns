@@ -6,7 +6,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://iltonns.github.io/)
   [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ilton.sa@outlook.com)
   
-  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Jr.%20System%20Dev-brightgreen?style=for-the-badge)
+  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Agentes%20de%20IA-brightgreen?style=for-the-badge)
   
 </div>
 
@@ -16,13 +16,14 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas e Banco de Dados**
 
-Apaixonado por transformar dados em insights valiosos e construir soluções de sistemas robustas. Com foco em desenvolvimento full-stack de sistemas de gestão e análise de dados avançada, busco criar aplicações que impactem positivamente nos negócios.
+Apaixonado por **Python**, **automação de processos** e **IA generativa aplicada**. Gosto de identificar tarefas manuais e repetitivas e transformá-las em scripts e agentes que rodam sozinhos — de robôs que leem PDFs e alimentam planilhas até assistentes de voz integrados a LLMs. Também atuo com desenvolvimento de sistemas de gestão e análise de dados.
 
 ### 🎯 Especialidades
-- 💼 Desenvolvimento de Sistemas ERP e de Gestão
+- 🐍 Automação de Processos com Python (RPA, scraping, geração de relatórios)
+- 🤖 IA Generativa & Agentes de IA (LLMs, Whisper, ASR/TTS, prompts)
 - 📊 Análise de Dados & Business Intelligence
 - 🔄 Pipelines ETL e Processamento de Dados
-- 💾 Modelagem de Dados & Design de Bancos de Dados
+- 💼 Desenvolvimento de Sistemas ERP e de Gestão
 
 ---
 
@@ -34,6 +35,12 @@ Apaixonado por transformar dados em insights valiosos e construir soluções de 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 Automação & IA
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper%20(ASR)-412991?style=for-the-badge&logo=openai&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Task Scheduler](https://img.shields.io/badge/Task%20Scheduler-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,6 +57,20 @@ Apaixonado por transformar dados em insights valiosos e construir soluções de 
 ---
 
 ## 🏆 Projetos em Destaque
+
+### 🐍 Automação com Python
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Conferência Automática de NF](https://github.com/Iltonns/conferencia-automatica-de-NF)** | Robô que varre pastas de faturamento, extrai códigos de produto de Notas Fiscais em PDF com `pdfplumber` e consolida tudo em planilha Excel — roda sozinho via Agendador de Tarefas do Windows, eliminando 100% da conferência manual | Python, pdfplumber, Excel, Task Scheduler |
+| **[Python — Automação + Análise de Dados](https://github.com/Iltonns/Python)** | Projetos e estudos de automação de rotinas e análise de dados em notebooks Python | Python, Jupyter, Pandas |
+
+### 🤖 IA Generativa & Agentes de IA
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Assistente de Voz Inteligente](https://github.com/Iltonns/Bootcamp-Bradesco-GenAI-Dados)** | Agente de voz ponta a ponta: captura áudio no navegador, transcreve com **Whisper** (ASR), envia o texto para a **API do ChatGPT** e responde por voz com **gTTS** (TTS) | Python, OpenAI API, Whisper, gTTS |
+| **[Bootcamp Santander — Excel com IA](https://github.com/Iltonns/Bootcamp-Santander-Excel-com-IA)** | Estudos e projetos aplicando IA para acelerar análise e automação de planilhas | Excel, IA Generativa |
 
 ### 💼 Sistemas de Gestão & ERP
 
@@ -85,12 +106,12 @@ Apaixonado por transformar dados em insights valiosos e construir soluções de 
 ## 📚 Aprendizado Contínuo
 
 ```
-📌 Excel avançado para Análise de Dados
-📌 Power BI e DAX avançado
-📌 Data Storytelling & Visualização de Dados
+📌 Automação de processos com Python (RPA, scraping, scripts agendados)
+📌 IA Generativa & Agentes de IA (prompt engineering, APIs de LLM)
+📌 ASR/TTS: Whisper, gTTS e integrações de voz
 📌 Python para Data Science & Machine Learning
-📌 Arquitetura de Sistemas & Microserviços
-📌 Cloud Computing (AWS/Azure)
+📌 Power BI e DAX avançado
+📌 Arquitetura de Sistemas & Cloud Computing (AWS/Azure)
 ```
 
 ---
@@ -106,11 +127,12 @@ Apaixonado por transformar dados em insights valiosos e construir soluções de 
 ## 🌟 Contribuições Abertas
 
 Estou aberto a colaborar em projetos relacionados a:
+- ✅ Automação de Processos em Python
+- ✅ Agentes de IA & IA Generativa
 - ✅ Análise de Dados
-- ✅ Desenvolvimento de Sistemas
 - ✅ ETL & Pipelines de Dados
 - ✅ Business Intelligence
-- ✅ Soluções em Python
+- ✅ Desenvolvimento de Sistemas
 
 Se você tem um projeto interessante, vamos conversar! 💬
 
@@ -123,8 +145,8 @@ Se você tem um projeto interessante, vamos conversar! 💬
 | Métrica | Valor |
 |---------|-------|
 | 💻 **Linguagem Principal** | Python |
-| 📊 **Foco Principal** | Data & Systems |
-| 🎯 **Experiência** | Full-Stack Development |
+| 🤖 **Foco Principal** | Automação & Agentes de IA |
+| 📊 **Foco Secundário** | Data & Systems |
 | 🔄 **Status** | Estudante + Desenvolvedor |
 
 </div>
@@ -146,10 +168,10 @@ Se você tem um projeto interessante, vamos conversar! 💬
 <div align="center">
   
   **Estou aberto a oportunidades em:**
+  - 🐍 Python Automation
+  - 🤖 AI Agents / GenAI Engineering
   - 📊 Data Analysis
   - 🎨 BI Development
-  - 💼 System Development
-  - 🤖 Data Science
   
   ---
   
